@@ -4,8 +4,6 @@
     "version": "1.0.0",
     "title": "Pause commands",
     "factorio_version": "1.1",
-    "dependencies": [
-        "base >= 1.1.0"
-    ],
+    "dependencies": [],
     "homepage": "https://github.com/Doridian/factorio-pause-commands"
 }
